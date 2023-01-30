@@ -3,7 +3,7 @@
 
   <summary>GitHub Stats</summary>
 
-[![GitHub stats card]](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats card]](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true)
 
 
 
