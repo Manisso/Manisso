@@ -23,6 +23,6 @@
 
 <!-- Links -->
 
-[github stats card]: https://github-readme-stats.vercel.app/api?username=Manisso
+[github stats card]: https://github-readme-stats.vercel.app/api?username=Manisso&count_private=true&show_icons=true&hide=contribs,prs
 [github trophies]: https://github-profile-trophy.vercel.app/?username=Manisso&column=4&margin-w=18&margin-h=15
 [github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Manisso&layout=compact
