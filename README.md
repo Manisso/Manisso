@@ -9,7 +9,7 @@
 
   <summary>GitHub Trophies</summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manisso)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manisso&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
