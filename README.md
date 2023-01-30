@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Manisso/Manisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>GitHub Stats</summary>
 
-Here are some ideas to get you started:
+[![GitHub stats card]](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details>
+  <summary>GitHub Trophies</summary>
+
+[![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
+<details>
+  <summary>GitHub Top Langs</summary>
+
+[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+<!-- Links -->
+
+[github stats card]: https://github-readme-stats.vercel.app/api?username=Manisso
+[github trophies]: https://github-profile-trophy.vercel.app/?username=Manisso&column=4&margin-w=18&margin-h=15
+[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Manisso&layout=compact
