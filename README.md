@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<details>
+
   <summary>GitHub Stats</summary>
 
 [![GitHub stats card]](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 
-<details>
+
   <summary>GitHub Trophies</summary>
 
 [![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
 
-</details>
+
 
 <details>
   <summary>GitHub Top Langs</summary>
