@@ -3,7 +3,7 @@
 
   <summary>GitHub Stats</summary>
 
-[![GitHub stats card]](https://github-readme-stats.vercel.app/api?username=Manisso&count_private=true&show_icons=true)
+[![GitHub stats card]](https://github-readme-stats.vercel.app/api?username=Manisso&count_private=true&show_icons=true&hide=contribs,prs)
 
 
 
