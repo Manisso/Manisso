@@ -1,28 +1,55 @@
-### Hi there 👋
+### Hi there 👋 I'm Manisso!
 
+I am a software developer focused on building functional scripts, native applications, and automation tools. I enjoy working on backend integrations, script optimization, and streamlining development workflows.
 
-  <summary>GitHub Stats</summary>
+---
 
-[![GitHub stats card]](https://github-readme-stats.vercel.app/api?username=Manisso&count_private=true&show_icons=true&hide=contribs,prs&include_all_commits=true)
+## 🛠️ Featured Work & Core Projects
 
+* **⚡ Automation & Tools:** Creator of open-source frameworks and script bundles aimed at testing, security assessment, and network utilities (including the `fsociety` hacking tools pack wrapper).
+* **💻 Full-Stack & API Development:** Experienced in building robust core web applications with a focus on native **PHP**, backend stability, and scalable integration logic.
+* **🐍 Python & Scripting:** Passionate about writing clean, automated scripts to solve repetitive configuration tasks and system workflows.
 
+---
 
-  <summary>GitHub Trophies</summary>
+## 📊 My GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manisso&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-<details>
-  <summary>GitHub Top Langs</summary>
-
-[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
-
+<details open>
+  <summary><b>📈 Performance & Activity</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Manisso&count_private=true&show_icons=true&hide=contribs,prs&include_all_commits=true" alt="Manisso's GitHub stats" />
+  </p>
 </details>
 
+<details>
+  <summary><b>🏆 Achievements & Trophies</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Manisso&rank=-C,-B" alt="Manisso's Trophies" />
+  </p>
+</details>
 
-<!-- Links -->
+<details>
+  <summary><b>🧪 Most Used Languages</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisso&layout=compact" alt="Manisso's Top Langs" />
+  </p>
+</details>
 
-[github stats card]: https://github-readme-stats.vercel.app/api?username=Manisso&count_private=true&show_icons=true&hide=contribs,prs&include_all_commits=true
-[github trophies]: https://github-profile-trophy.vercel.app/?username=Manisso&column=4&margin-w=18&margin-h=15
-[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Manisso&layout=compact
+---
+
+## 🛠️ Tech Stack & Languages
+
+* **Languages:** Python, PHP, JavaScript, Shell Scripting (Bash)
+* **Web Development:** Native APIs, React, HTML5, CSS3
+* **Environment & Tools:** Linux, Git, GitHub Actions, Network Diagnostics
+
+---
+
+## 🤝 Connect with Me
+
+* **GitHub:** [@Manisso](https://github.com/Manisso)
+
+---
