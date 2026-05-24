@@ -18,7 +18,7 @@ I am a software developer focused on building functional scripts, native applica
   <summary><b>📈 Performance & Activity</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manisso&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs" alt="Manisso's GitHub stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Manisso&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs" alt="Manisso's GitHub stats" />
   </p>
 </details>
 
@@ -30,19 +30,19 @@ I am a software developer focused on building functional scripts, native applica
   </p>
 </details>
 
+<details open>
+  <summary><b>🧪 Most Used Languages</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Manisso&layout=compact" alt="Manisso's Top Langs" />
+  </p>
+</details>
+
 <details>
   <summary><b>🏆 Achievements & Trophies</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Manisso&rank=-C,-B" alt="Manisso's Trophies" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🧪 Most Used Languages</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manisso&layout=compact" alt="Manisso's Top Langs" />
   </p>
 </details>
 
