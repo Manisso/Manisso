@@ -18,7 +18,7 @@ I am a software developer focused on building functional scripts, native applica
   <summary><b>📈 Performance & Activity</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manisso&count_private=true&show_icons=true&hide=contribs,prs&include_all_commits=true" alt="Manisso's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Manisso&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs" alt="Manisso's GitHub stats" />
   </p>
 </details>
 
