@@ -22,6 +22,14 @@ I am a software developer focused on building functional scripts, native applica
   </p>
 </details>
 
+<details open>
+  <summary><b>🔥 Contribution Streak</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Manisso" alt="Manisso's GitHub Streak" />
+  </p>
+</details>
+
 <details>
   <summary><b>🏆 Achievements & Trophies</b></summary>
   <br/>
